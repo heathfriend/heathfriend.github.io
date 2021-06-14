@@ -7,3 +7,7 @@ h1 {
     border-box: 2px solid black;
 
 }
+
+p {
+    border-bottom: 2px solid black;
+}
