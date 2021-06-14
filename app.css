@@ -4,6 +4,6 @@ div {
 }
 
 h1 {
-    border: 2px solid black;
+    border-box: 2px solid black;
 
 }
