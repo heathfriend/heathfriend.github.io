@@ -2,3 +2,10 @@
 div {
     text-align: center;
 }
+
+h1 {
+    border-top: solid;
+    border-bottom: solid;
+    border-left: solid;
+    border-right: solid;
+}
